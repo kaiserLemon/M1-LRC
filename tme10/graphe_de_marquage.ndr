@@ -1,0 +1,15 @@
+s 30.0 50.0 0 c {p1*6 p3*2} ne
+s 30.0 120.0 1 c {p1*6 p2*3} ne
+s 30.0 195.0 2 c {p1*3 p2*3 p3} ne
+s 30.0 265.0 3 c {p2*3 p3*2} ne
+s 30.0 335.0 4 c {p1*2 p2*2 p3*2} ne
+s 30.0 410.0 5 c {p1*4 p2 p3*2} ne
+e 5 0 t3 n
+e 4 5 t3 n
+e 3 4 t3 n
+e 2 3 t2 n
+e 1 2 t2 n
+e 0 1 t1 n
+h graphe_de_marquage
+
+
